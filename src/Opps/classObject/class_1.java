@@ -1,4 +1,4 @@
-package Opps;
+package Opps.classObject;
 
 class Student {
     String name;
